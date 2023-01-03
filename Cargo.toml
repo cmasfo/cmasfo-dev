@@ -10,3 +10,9 @@ homepage = "https://github.com/cmasfo"
 repository = "https://github.com/cmasfo/cmasfo-dev"
 
 [dependencies]
+
+[[bin]]
+name = "cmasfo"
+
+[[lib]]
+name = "cmasfo-dev"
