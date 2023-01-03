@@ -12,5 +12,5 @@ repository = "https://github.com/cmasfo/cmasfo-dev"
 [dependencies]
 
 [[bin]]
-name = "cmasfo"
+name = "cargo-cmasfo"
 path = "src/main.rs"
