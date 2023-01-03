@@ -13,6 +13,4 @@ repository = "https://github.com/cmasfo/cmasfo-dev"
 
 [[bin]]
 name = "cmasfo"
-
-[[lib]]
-name = "cmasfo-dev"
+path = "src/main.rs"
